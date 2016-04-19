@@ -9,6 +9,7 @@
     skel.init({
         reset: 'full',
         breakpoints: {
+            'numaneo': {range: '*', href: 'css/numaneo.css'},
             'global': {range: '*', href: 'css/style.css'},
             'desktop': {range: '737-', href: 'css/style-desktop.css', containers: 1200, grid: {gutters: 50}},
             '1000px': {

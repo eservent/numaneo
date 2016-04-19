@@ -296,7 +296,7 @@ ul.actions li {
 }
 
 #logo h1 {
-    font-size: 1.5em;
+    font-size: 2em;
     letter-spacing: 0.2em;
 }
 
@@ -304,7 +304,12 @@ ul.actions li {
     margin: 1.25em 0 0 0;
     display: block;
     letter-spacing: 0.2em;
-    font-size: 0.9em;
+    font-size: 0.8em;
+}
+
+#logo img {
+    width: 70px;
+    margin-right: 7px;
 }
 
 /*********************************************************************************/
