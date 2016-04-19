@@ -1,6 +1,5 @@
 @charset 'UTF-8';
 @import url('http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,700,900');
-@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,500,700);
 @import url('font-awesome.min.css');
 
 /*
@@ -674,7 +673,7 @@ ol.default li {
 /*********************************************************************************/
 
 #logo {
-    font-family: Ubuntu;
+    font-family: Ubuntu, 'Source Sans Pro', sans-serif;
 }
 
 #logo h1 {
