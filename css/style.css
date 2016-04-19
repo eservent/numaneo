@@ -431,14 +431,14 @@ ol.default li {
 }
 
 .feature-list h3 {
-    color: #cbb69c !important;
+    color: #b689b2 !important;
 }
 
 .feature-list h3:before {
     position: relative;
     display: inline-block;
-    color: #fff;
-    background: #2f333b url('images/overlay.png');
+    color: #c4df9b;
+    background: #7b7b7b url('images/overlay.png');
     border-radius: 1em;
     text-align: center;
 }
@@ -661,11 +661,16 @@ ol.default li {
     border-top-color: rgba(255, 255, 255, 0.05);
 }
 
+#footer-wrapper .feature-list section p {
+    color: #fff;
+}
+
 #footer-wrapper .feature-list h3 {
+    color: #cbb69c !important;
 }
 
 #footer-wrapper .feature-list h3:before {
-    background: #3d4249 url('images/overlay.png');
+    color: #81a9dc;
 }
 
 /*********************************************************************************/

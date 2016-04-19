@@ -37,6 +37,10 @@ body {
 #footer-wrapper {
 }
 
+#footer-wrapper .courriel {
+    width: 200px;
+}
+
 #footer-wrapper hr {
     margin: 3em 0 3em 0;
 }

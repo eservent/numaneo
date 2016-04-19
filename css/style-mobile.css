@@ -82,6 +82,11 @@ ul.actions li {
     margin: 15px 0 0 0;
 }
 
+/* */
+.mobile-hide {
+    display: none;
+}
+
 /* Feature List */
 
 .feature-list {
@@ -273,6 +278,10 @@ ul.actions li {
 
 #footer-wrapper {
     padding-top: 3em;
+}
+
+#footer-wrapper .courriel {
+    width: 160px;
 }
 
 #footer-wrapper .feature-list section {

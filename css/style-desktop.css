@@ -30,7 +30,7 @@ article {
 }
 
 header.style1 {
-    padding: 3em 0 3em 0;
+    padding: 1em 0 3em 0;
 }
 
 header.style1 h2 {
@@ -130,7 +130,7 @@ ul.actions-centered {
 
 .feature-list h3 {
     margin: 0 0 0.75em 0;
-    font-size: 1.15em;
+    font-size: 1.5em;
     letter-spacing: 0.05em;
     margin-top: -0.35em;
 }
@@ -146,6 +146,7 @@ ul.actions-centered {
 
 .feature-list p {
     margin: 0 0 0 5em;
+    font-size: 1.1em;
 }
 
 .feature-list.small {
@@ -470,7 +471,11 @@ ul.actions-centered {
 }
 
 #footer hr {
-    margin: 6em 0 6em 0;
+    margin: 3em 0 1em 0;
+}
+
+#footer-wrapper .courriel {
+    width: 260px;
 }
 
 /*********************************************************************************/
